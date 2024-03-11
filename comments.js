@@ -1,4 +1,4 @@
-// create a web server that listens on port 3000
+// create web server that listens on port 3000
 // When you visit localhost:3000 in your browser, you should see a list of comments
 // When you visit localhost:3000/new in your browser, you should see a form to add a new comment
 // When you visit localhost:3000/new and submit the form, the server should add the comment to the list of comments
